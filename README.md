@@ -22,3 +22,6 @@ https://codebender.cc/example/EasyTransfer/EasyTransfer_2Way_wPot_Example#EasyTr
 
 Pololu VNH5019 user guide
 https://www.pololu.com/docs/0J49/all
+
+How to program Xbees
+https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu/all
