@@ -44,8 +44,8 @@ void loop() {
   for (int i = 0; i < 5; i++) {
     if (ETin.receiveData()) {
 
-      rxdata.valY = map(rxdata.valY, 0, 1023, -250, 250);
-      rxdata.valX = map(rxdata.valX, 0, 1023, -250, 250);
+      rxdata.valY = map(rxdata.valY, 0, 1023, -255, 255);
+      rxdata.valX = map(rxdata.valX, 0, 1023, -255, 255);
 
       if (rxdata.valX >= 10)
       {
