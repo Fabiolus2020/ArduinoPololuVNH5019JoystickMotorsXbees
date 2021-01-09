@@ -6,6 +6,8 @@ The idea can be applied for other wireless project easily.
 Youtube: https://youtu.be/9Pl-jYDci4I
 
 Project#1
+
+Servo Library
 2 x Arduino Uno
 2 x xbee series 1
 1 x tumb joystick
